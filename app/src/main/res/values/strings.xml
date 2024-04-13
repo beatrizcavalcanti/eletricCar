@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">carroEletrico</string>
+    <string name="preco">Preço</string>
+    <string name="bateria">bateria</string>
+    <string name="preco_valor">R$ 300.000,00</string>
+    <string name="bateria_dura">300 KwH</string>
+    <string name="potencia">potencia</string>
+    <string name="potencia_motor">200cv</string>
+    <string name="recarga">Recarga</string>
+    <string name="horas_duracao">30min</string>
+</resources>
