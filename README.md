@@ -1,4 +1,4 @@
-
+Um app de calcular aluguel de carros Eletricos com conexão com API externa e banco de dados interno. 
 # EletricCar App
 
 O EletricCar é um aplicativo móvel criado para a resolução do desafio do curso de Android da Dio.me 
