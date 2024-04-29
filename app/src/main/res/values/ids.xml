@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="vp_view_pager" type="id" />
+    <item name="fabCalcular" type="id" />
+    <item name="listaCarrosFavoritos" type="id" />
+</resources>

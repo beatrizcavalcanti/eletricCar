@@ -8,4 +8,16 @@
     <string name="potencia_motor">200cv</string>
     <string name="recarga">Recarga</string>
     <string name="horas_duracao">30min</string>
+    <string name="km_percorrido">Km percorridos</string>
+    <string name="preco_kwh">Preco KM</string>
+    <string name="calcular">Calcular</string>
+    <string name="ver">ver</string>
+    <string name="calcular_autonomia">Calcular autonomia</string>
+    <string name="calcularr">Calcular</string>
+    <string name="carros">Carros</string>
+    <string name="favoritos">Favoritos</string>
+    <string name="title">EletricCar</string>
+    <string name="no_wifi">"Ops, sem internet! :( "</string>
+    <string name="response_error">Algo deu errado! Tente novamente mais tarde...</string>
+    <string name="saved_calc">SalvandoResuldado...</string>
 </resources>
